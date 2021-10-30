@@ -10,7 +10,7 @@ Project for the 2.0 reviews at Microverse
 
 ## Live Demo
 
-[Screenshot](./Screenshot.png)
+![Screenshot](https://github.com/guillainbisimwa/Review-past-project/blob/feature/Screenshot.png)
 
 ## Author
 
